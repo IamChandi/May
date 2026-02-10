@@ -72,7 +72,7 @@ export default function EthicalSafeguards({
             <div className="hidden lg:flex items-center gap-1 text-xs text-gray-400">
               <span>Made with</span>
               <span className="text-red-500">❤️</span>
-              <span>by Chandi Kodthiwakku</span>
+              <span>by Chandi Kodthiwada</span>
             </div>
           </div>
         </div>

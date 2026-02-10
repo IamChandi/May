@@ -144,4 +144,4 @@ Proprietary - All rights reserved
 
 ---
 
-Made with ❤️ by Chandi Kodthiwakku
+Made with ❤️ by Chandi Kodthiwada
