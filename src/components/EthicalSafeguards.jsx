@@ -66,6 +66,14 @@ export default function EthicalSafeguards({
               <Clock className="w-3.5 h-3.5" />
               <span>{formatDate(lastUpdated)}</span>
             </div>
+
+            <div className="hidden lg:block w-px h-4 bg-gray-200" />
+
+            <div className="hidden lg:flex items-center gap-1 text-xs text-gray-400">
+              <span>Made with</span>
+              <span className="text-red-500">❤️</span>
+              <span>by Chandi Kodthiwakku</span>
+            </div>
           </div>
         </div>
       </div>

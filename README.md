@@ -142,6 +142,6 @@ The prototype includes a complete demo workflow:
 
 Proprietary - All rights reserved
 
-## Contact
+---
 
-For more information, visit the repository at [github.com/IamChandi/May](https://github.com/IamChandi/May)
+Made with ❤️ by Chandi Kodthiwakku
